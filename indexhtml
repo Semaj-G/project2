@@ -4,10 +4,15 @@
 </head>
 <body>
 <img scr="images/black and white minky.png" alt" banner imag">
+<ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="conact.html">Contact</a></li>
+<ul>
 
 
 <hr> 
-<h1>This is a Heading</h1>
+<h1>Home page</h1>
 <p>This is a paragraph.</p>
 <hr>
 
